@@ -1,5 +1,7 @@
 Contact: Thomas Johnson thjohnson@microsoft.com
 
+Workshop: GitHub Foundations / SCM Basics
+
 # Scientific workflow GitHub workshop
 
 This synthetic repository supports two workshops:
