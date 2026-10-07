@@ -1,6 +1,6 @@
 Contact: Thomas Johnson thjohnson@microsoft.com
 
-Workshop: GitHub Foundations / SCM Bacis
+Workshop: GitHub Foundations / SCM Basics
 
 # Scientific workflow GitHub workshop
 
